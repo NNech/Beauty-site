@@ -45,7 +45,7 @@ body {
 
 
 .container {
-    max-width: calc(var(--container-width)+var(--container-space)*2);
+    max-width: calc(var(--container-width) + var(--container-space)*2);
     margin: 0 auto;
     width: 100%;
     padding: 0 var(--container-space);
